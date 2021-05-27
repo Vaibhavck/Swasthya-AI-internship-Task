@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "60ae5e3550803f020c7c0b3c"
+  },
+  "name": "Nakul Gundecha",
+  "username": "nakulg",
+  "comments": [
+    {
+      "blogId": "60ae5ee250803f020c7c0b3e"
+    },
+    {
+      "blogId": "60ae5ee250803f020c7c0b40"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ae5e3550803f020c7c0b3a"
+  },
+  "name": "Shivraj Menkale",
+  "username": "shivrajm",
+  "comments": [
+    {
+      "blogId": "60ae5ee250803f020c7c0b3f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ae5e3550803f020c7c0b3b"
+  },
+  "name": "Pratik Bhojane",
+  "username": "pratikb",
+  "comments": [
+    {
+      "blogId": "60ae5ee250803f020c7c0b3f"
+    },
+    {
+      "blogId": "60ae5ee250803f020c7c0b40"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ae5e3550803f020c7c0b3d"
+  },
+  "name": "Abhinav Kale",
+  "username": "abhinavk",
+  "comments": [
+    {
+      "blogId": "60ae5ee250803f020c7c0b40"
+    },
+    {
+      "blogId": "60ae5ee250803f020c7c0b41"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60ae5e3550803f020c7c0b39"
+  },
+  "name": "Vaibhav C Kanade",
+  "username": "vaibhavck",
+  "comments": [
+    {
+      "blogId": "60ae5ee250803f020c7c0b3e"
+    },
+    {
+      "blogId": "60ae5ee250803f020c7c0b3f"
+    },
+    {
+      "blogId": "60ae5ee250803f020c7c0b41"
+    }
+  ]
+}]
